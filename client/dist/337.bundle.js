@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_babel_setup=self.webpackChunkwebpack_babel_setup||[]).push([[337],{337:(e,t,a)=>{"use strict";a.r(t),a.d(t,{default:()=>u});var l=a(294);function u(){return l.createElement("div",null,l.createElement("h2",null,"Contact"))}}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_babel_setup=self.webpackChunkwebpack_babel_setup||[]).push([[739],{739:(e,l,t)=>{"use strict";t.r(l),t.d(l,{default:()=>a});var u=t(294);function a(){return u.createElement("div",null,u.createElement("h2",null,"Home"))}}}]);
